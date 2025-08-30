@@ -46,7 +46,7 @@ export default function Home() {
       <div className="w-full mt-3.5 px-4 md:px-40 hover:cursor-pointer flex flex-col md:flex-row gap-6">
         <div className="md:w-1/4 text-justify border-b-1 border-gray-300">
           <p className="text-2xl font-bold hover:underline">
-            Heavy rain paralyses India's financial capital Mumbai
+            Heavy rain paralyses India&apos;s financial capital Mumbai
           </p>
           <p className="pt-2 text-sm">
             Nearly 600 people were rescued from a stalled monorail system and
@@ -111,7 +111,7 @@ export default function Home() {
               width={200}
             />
             <p className="text-xl font-bold hover:underline">
-              Boy and man held over Indian restaurant 'arson attack' in London
+              Boy and man held over Indian restaurant &apos;arson attack&apos; in London
             </p>
             <p className="pt-2 text-sm">
               Two people remain in a life- threatening condition in hospital
@@ -128,7 +128,7 @@ export default function Home() {
               width={200}
             />
             <p className="text-xl font-bold hover:underline">
-              Why India's Election Commission is Facing a test of credibility
+              Why India&apos;s Election Commission is Facing a test of credibility
             </p>
             <p className="pt-2 text-sm">
               The polling monitor is facing heat over voter roll revision and
@@ -149,7 +149,7 @@ export default function Home() {
               town arresred
             </p>
             <p className="pt-2 text-sm">
-              The former temple cleaner's startling claims threw the town of
+              The former temple cleaner&apos;s startling claims threw the town of
               Dharmasthala in Karnataka into turmoil.
             </p>
             <p className="pt-2 pb-2 text-xs font-thin">2 days ago | Asia</p>
@@ -160,8 +160,8 @@ export default function Home() {
             Beijing Opposes "bully" US for 50% tariffs on India
           </p>
           <p className="pt-2 text-sm">
-            China's ambassador to India Xu feihong says Beijing "firmly opposes"
-            Washinggton's steep tariffs on Delhi.
+            China&apos;s ambassador to India Xu feihong says Beijing "firmly opposes"
+            Washinggton&apos;s steep tariffs on Delhi.
           </p>
           <p className="pt-2 text-xs font-thin">3 days ago | world</p>
           <p className="text-xl font-bold hover:underline">
@@ -187,11 +187,11 @@ export default function Home() {
             width={200}
           />
           <p className="text-xl font-bold hover:underline">
-            Beijing opposes bully' US for 50% tariffs on India
+            Beijing opposes bully&apos; US for 50% tariffs on India
           </p>
           <p className="pt-2 text-sm">
-            China's ambassador to India Xu Feihong says Beijing "firmly opposes"
-            Washington's steep tariffs on Delhi.
+            China&apos;s ambassador to India Xu Feihong says Beijing "firmly opposes"
+            Washington&apos;s steep tariffs on Delhi.
           </p>
         </div>
         <div className="w-full md:w-1/5">
@@ -203,7 +203,7 @@ export default function Home() {
             width={200}
           />
           <p className="text-xl font-bold hover:underline">
-            India top court shelves plan to lock up Delhi's one million street
+            India top court shelves plan to lock up Delhi&apos;s one million street
             dogs
           </p>
           <p className="pt-2 text-sm">
@@ -220,7 +220,7 @@ export default function Home() {
             width={200}
           />
           <p className="text-xl font-bold hover:underline">
-            India's biofuel drive is saving billions but also sparking worries
+            India&apos;s biofuel drive is saving billions but also sparking worries
           </p>
           <p className="pt-2 text-sm">
             Critics say many vehicles in India are not biofuel-compliant, and
@@ -261,7 +261,7 @@ export default function Home() {
         </div>
       </div>
       <div className="px-4 md:px-40 py-8 md:py-20 font-bold text-lg hover:underline hover:cursor-pointer">
-        <p>Beijing opposes 'bully' US for 50% tariffs on India</p>
+        <p>Beijing opposes &apos;bully&apos; US for 50% tariffs on India</p>
       </div>
       <div className="px-4 md:px-40 font-bold text-lg">
         <p className="border-t-3">FEATURES</p>
@@ -275,11 +275,11 @@ export default function Home() {
               width={200}
             />
             <p className="text-xl font-bold hover:underline">
-              Beijing opposes 'bully' US for 50% tariffs on India
+              Beijing opposes &apos;bully&apos; US for 50% tariffs on India
             </p>
             <p className="pt-2 text-sm">
-              China's ambassdor to india Xu Feihong says Beijing "firmly
-              opposes" Washinggton's steep tariffs on Delhi.
+              China&apos;s ambassdor to india Xu Feihong says Beijing "firmly
+              opposes" Washinggton&apos;s steep tariffs on Delhi.
             </p>
           </div>
           <div className="md:w-1/5">
@@ -291,7 +291,7 @@ export default function Home() {
               width={200}
             />
             <p className="text-xl font-bold hover:underline">
-              India top court shelves plan to lock up Delhi's one million street
+              India top court shelves plan to lock up Delhi&apos;s one million street
               dogs
             </p>
             <p className="pt-2 text-sm">
@@ -308,7 +308,7 @@ export default function Home() {
               width={200}
             />
             <p className="text-xl font-bold hover:underline">
-              India's biofuel drive is saving billions but also sparking worries
+              India&apos;s biofuel drive is saving billions but also sparking worries
             </p>
             <p className="pt-2 text-sm">
               Critics say many vehicles in India are not biofuel-compliant, and
@@ -382,7 +382,7 @@ export default function Home() {
             </p>
             <p className="pt-2 text-sm">
               Dozens are feared trapped after a cloudburst triggered floods in
-              northern India's Uttarakhand state.
+              northern India&apos;s Uttarakhand state.
             </p>
           </div>
           <div className="md:w-1/5">
@@ -397,8 +397,8 @@ export default function Home() {
               Tesla: Milestone as first showroom opens in India
             </p>
             <p className="pt-2 text-sm">
-              The opening of Tesla's first showroom in India is a milestone but
-              not a breakthrough for the country's EV sector.
+              The opening of Tesla&apos;s first showroom in India is a milestone but
+              not a breakthrough for the country&apos;s EV sector.
             </p>
           </div>
           <div className="md:w-1/5">
@@ -463,11 +463,11 @@ export default function Home() {
           <div className="font-thin text-sm md:w-1/8 text-right">4 hrs ago</div>
           <div className="md:w-5/8  ">
             <p className="text-2xl font-bold hover:underline hover:cursor-pointer">
-              Trump adviser call Ukraine conflict 'modi's war' as US tariffs on
+              Trump adviser call Ukraine conflict &apos;modi&apos;s war&apos; as US tariffs on
               india riverside
             </p>
             <p className="pt-2 text-sm">
-              Trade Adviser Peter Navarro's comments came hours after US tariffs
+              Trade Adviser Peter Navarro&apos;s comments came hours after US tariffs
               of 50% on indian goods kicked in.
             </p>
           </div>
@@ -506,11 +506,11 @@ export default function Home() {
           <div className="font-thin text-sm md:w-1/8 text-right">4 hrs ago</div>
           <div className="md:w-5/8  ">
             <p className="text-2xl font-bold hover:underline hover:cursor-pointer">
-              Trump adviser call Ukraine conflict 'modi's war' as US tariffs on
+              Trump adviser call Ukraine conflict &apos;modi&apos;s war&apos; as US tariffs on
               india riverside
             </p>
             <p className="pt-2 text-sm">
-              Trade Adviser Peter Navarro's comments came hours after US tariffs
+              Trade Adviser Peter Navarro&apos;s comments came hours after US tariffs
               of 50% on indian goods kicked in.
             </p>
           </div>
