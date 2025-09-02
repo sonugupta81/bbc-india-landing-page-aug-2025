@@ -1,7 +1,11 @@
+"use client";
 import Image from "next/image";
 import MenuImage from "../assets/images/hamburger.png";
+import { useRouter } from "next/navigation";
 
 const Navbar = () => {
+  const router = useRouter();
+
   return (
     <>
       {/* Main Navbar */}
@@ -22,10 +26,16 @@ const Navbar = () => {
         </div>
 
         <div className="flex gap-4">
-          <button className="bg-black text-white pt-0.5 pb-1.5 px-3 font-semibold hover:bg-gray-600 hover:cursor-pointer">
+          <button 
+           onClick={() => router.push("/register")}
+           className="bg-black text-white pt-0.5 pb-1.5 px-3 font-semibold hover:bg-gray-600 hover:cursor-pointer">
+            
             Register
           </button>
-          <button className=" pt-0.5 pb-1.5 px-3 font-semibold hover:bg-gray-600 hover:text-white hover:cursor-pointer">
+          <button
+            onClick={() => router.push("/signin")}
+            className=" pt-0.5 pb-1.5 px-3 font-semibold hover:bg-gray-600 hover:text-white hover:cursor-pointer"
+          >
             Sign-in
           </button>
         </div>

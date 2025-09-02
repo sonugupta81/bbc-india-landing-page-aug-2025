@@ -10,13 +10,13 @@ const Footer = () => {
     <>
       <div className="px-4 md:px-40 border-t-2 ">
         <div className="pt-5 flex gap-1 gap-3 ">
-          <div className="bg-black text-white text-4xl font-bold pb-1.5 px-3">
+          <div className="bg-black text-white text-4xl font-bold pb-1 px-3">
             <p>B</p>
           </div>
-          <div className="bg-black text-white text-4xl font-bold pb-1.5 px-3">
+          <div className="bg-black text-white text-4xl font-bold pb-1 px-3">
             <p>B</p>
           </div>
-          <div className="bg-black text-white text-4xl font-bold pb-1.5 px-3">
+          <div className="bg-black text-white text-4xl font-bold pb-1 px-3">
             <p>C</p>
           </div>
         </div>
